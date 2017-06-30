@@ -1,4 +1,4 @@
-package ElementarySorts;
+package elementary_sorts;
 
 import java.util.Random;
 

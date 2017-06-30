@@ -1,4 +1,4 @@
-package ElementarySorts;
+package elementary_sorts;
 
 /**
  * Created by sergei.kostin on 6/28/17.

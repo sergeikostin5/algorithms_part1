@@ -1,7 +1,6 @@
-package ElementarySorts;
+package elementary_sorts;
 
 import java.util.Arrays;
-import java.util.Collections;
 
 /*
     Question 1
@@ -9,7 +8,7 @@ import java.util.Collections;
     design a subquadratic algorithm to count the number of points that are contained both in array 𝚊[] and array 𝚋[].
  */
 public class IntersectionOfTwoSets {
-    
+
     static class Point implements Comparable<Point>{
         private int x;
         private int y;

@@ -1,4 +1,6 @@
-package ElementarySorts;
+package merge_sort;
+
+import elementary_sorts.SortUtil;
 
 /**
  * Created by sergei.kostin on 6/28/17.
